@@ -1,2 +1,2 @@
 # opencv
-mini to major projects
+# mini to major projects
