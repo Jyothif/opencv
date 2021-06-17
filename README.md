@@ -18,11 +18,13 @@
 
 # Edge Detection:
 `This is technique used in edge detection for calculate the edges of the images`
-`- Thus edges sudden changes into sharpen or shiny edges which the makes image more clear`
-`- Edge detection improves the images and improves the image quality to recognize`
-`- **cv2.Canny()** is used to detect the edges of the images, most popular function to detect the edges.`
+- Thus edges sudden changes into sharpen or shiny edges which the makes image more clear
+- Edge detection improves the images and improves the image quality to recognize
+- `cv2.Canny()` is used to detect the edges of the images, most popular function to detect the edges.
 
-<img src="https://github.com/Jyothif/opencv/blob/main/images/edge%20detection_images/E_O.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/edge%20detection_images/E_R.PNG">
+<img src="https://github.com/Jyothif/opencv/blob/main/images/edge%20detection_images/E_O.PNG">
+
+<img src="https://github.com/Jyothif/opencv/blob/main/images/edge%20detection_images/E_R.PNG">
 
 
 
