@@ -34,7 +34,8 @@ They are four different types of functions available for blurring:
 - `cv2.medianBlur()`:it will takes the median of the neighboring pixels. mainly useful for digital image processing in an specific conditions.,it will take care about edges of the images.
 - `cv2.bilateralFilter()`:sharp edges are saved and weak edges are deleted.
 
-<><><><><>
+<img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/flower.jpg"><imgsrc="https://github.com/Jyothif/opencv/blob/main/images/blur_images/blur.PNG">
+<img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/gaussianblur.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/median_blur.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/Bilateral%20Blur.PNG">
 
 
 
