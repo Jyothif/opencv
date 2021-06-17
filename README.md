@@ -1,5 +1,4 @@
-# opencv
-# mini to major projects
+# opencv(mini to major projects)
 
 # cropping the image
 <img src="https://github.com/Jyothif/opencv/blob/main/1.jpg">
@@ -25,6 +24,17 @@
 <img src="https://github.com/Jyothif/opencv/blob/main/images/edge%20detection_images/E_O.PNG">
 
 <img src="https://github.com/Jyothif/opencv/blob/main/images/edge%20detection_images/E_R.PNG">
+
+
+
+# Blur the image:
+They are four different types of functions available for blurring:
+- `cv2.blur()`: this fucntion takes avrage of all pixels around that filter. it used for simple and fast blurring techniques.
+- `cv2.GaussianBlur()`: GaussianBlur() is used for filtering and removing the noised and as well reduced the reduced the detials of the image,it is used in mainly in the image preprocessing steps in machine learning and Deep learning models.
+- `cv2.medianBlur()`:it will takes the median of the neighboring pixels. mainly useful for digital image processing in an specific conditions.,it will take care about edges of the images.
+- `cv2.bilateralFilter()`:sharp edges are saved and weak edges are deleted.
+
+<><><><><>
 
 
 
