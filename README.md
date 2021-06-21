@@ -39,6 +39,13 @@ They are four different types of functions available for blurring:
 <img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/gaussianblur.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/median_blur.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/blur_images/Bilateral%20Blur.PNG">
 
 
+# Photo sketching
+
+- The idea is to build an app that will take an image as input from the user and convert it into a pencil sketching, coding is completed deployment is under process.
+<img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im1.PNG">
+<img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im2.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im3.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im4.PNG">
+
+
 
 
 
