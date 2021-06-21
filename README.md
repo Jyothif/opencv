@@ -46,6 +46,9 @@ They are four different types of functions available for blurring:
 <img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im2.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im3.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im4.PNG">
 
 
+## output photo
+
+<img src="https://github.com/Jyothif/opencv/blob/main/images/photo%20sketch/im5.PNG">
 
 
 
