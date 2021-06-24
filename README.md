@@ -52,6 +52,17 @@ They are four different types of functions available for blurring:
 
 
 
+# Extracting the text from image 
+- pytesseract is actively used to extract the text from the image
+- Just go this url link: https://github.com/UB-Mannheim/tesseract/wiki
+- Install tesseract-ocr-w64-setup-v5.0.0-alpha.20210506.exe either 34 or 64 bit file.
+- Add path to the environment varaibles path as: 'C:\Program Files\Tesseract-OCR\\tesseract.exe'
+- Start exploring with text images coversion.
+
+Snippets of GUI
+<img src = "https://github.com/Jyothif/opencv/blob/main/images/extract/2.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/extract/output.PNG">
+
+
 
 
 ##### projects are still coming on
