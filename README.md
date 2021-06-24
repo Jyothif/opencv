@@ -59,8 +59,8 @@ They are four different types of functions available for blurring:
 - Add path to the environment varaibles path as: 'C:\Program Files\Tesseract-OCR\\tesseract.exe'
 - Start exploring with text images coversion.
 
-Snippets of GUI
-<img src = "https://github.com/Jyothif/opencv/blob/main/images/extract/2.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/extract/output.PNG">
+#### Snippets of GUI
+<img src="https://github.com/Jyothif/opencv/blob/main/images/extract/2.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/extract/output.PNG">
 
 
 
