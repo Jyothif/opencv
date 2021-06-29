@@ -63,6 +63,7 @@ They are four different types of functions available for blurring:
 <img src="https://github.com/Jyothif/opencv/blob/main/images/extract/2.PNG"><img src="https://github.com/Jyothif/opencv/blob/main/images/extract/output.PNG">
 
 
-
+# Resize
+<img src='https://github.com/Jyothif/opencv/blob/main/images/resize/resizing.PNG'>
 
 ##### projects are still coming on
